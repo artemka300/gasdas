@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url(.//unknown.png) center center/cover, no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.logo{
+    color: white;
+    font-size: 130px;
+    font-weight: 900; 
+}
+.text{
+    width: 600px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+}
+.content{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    margin-left: 3%;
+}
+.right{
+    margin-right: 3%;
+}
+.ric{
+    display: flex;
+}
+.text11{
+    width: 200px;
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+}
